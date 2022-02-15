@@ -1471,6 +1471,12 @@
       "links": {},
       "address": "0xbcE49B1734399Bb5f3960e991925a702dCE5d32f",
       "transactionHash": "0x70b3446bf060385958298754adece1c41fdb78b1a9c7d9b4edb38e511817eb0a"
+    },
+    "42": {
+      "events": {},
+      "links": {},
+      "address": "0xd9145CCE52D386f254917e481eB44e9943F39138",
+      "transactionHash": "0x97f3e40e47c0a6aaed45d8671fcccc27d6b86b87f9be234e9ee7177a53c7bc2f"
     }
   },
   "schemaVersion": "3.4.4",
